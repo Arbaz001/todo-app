@@ -29,3 +29,6 @@ body{
 .todo-item-text{
     margin-left: 5px;
 }
+.counter-area{
+    display: flex;
+}
